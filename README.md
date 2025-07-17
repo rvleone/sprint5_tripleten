@@ -32,10 +32,15 @@ A aplicação carrega um conjunto de dados de anúncios de carros e permite ao u
 
 3.  **Execute a aplicação:**
     No terminal, navegue até a pasta raiz do projeto e execute o seguinte comando:
+
     ```bash
     streamlit run app.py
     ```
+
     A aplicação será aberta automaticamente no seu navegador.
+
+    Para acessar direto pelo navegador através do Render use a URL abaixo
+    https://sprint5-tripleten.onrender.com
 
 ## Tecnologias Utilizadas
 
